@@ -1,0 +1,76 @@
+html {
+    font-family: 'Montserrat', sans-serif;
+}
+ 
+* {
+    color: black;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: royalblue;
+    margin-bottom: 0.25em;
+}
+h2 {
+    color: black;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 1em;
+
+}
+
+a {
+    color: royalblue;
+}
+
+.cv__header {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+
+.cv-img {
+    margin-right: 5%;
+}
+
+.contact {
+    display: flex;
+    margin-bottom: 0.5em;
+}
+
+.contact__type {
+    min-width: 90px;
+
+}
+    
+h3 {
+    color: royalblue;
+}
+
+.education {
+    display: flex;
+}
+
+.education__date {
+    min-width: 185px;
+}
+
+.education__name {
+    font-weight: bold;
+}
+
+.cv-photo {
+    border-radius: 50%;
+}
+
+
+
+
+
+  
+
+
